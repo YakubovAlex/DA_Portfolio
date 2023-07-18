@@ -26,8 +26,8 @@
 
 ### Презентация и дашборд
 
-Ссылка на презентацию: https://drive.google.com/file/d/18_ybHsX2ZL7bAI_pqjH8esXESvgL-aZP/view?usp=sharing
-Ссылка на дашборд: https://public.tableau.com/app/profile/aleksandryakubov/viz/_16801695178860/Dashboard
+- Ссылка на презентацию: https://drive.google.com/file/d/18_ybHsX2ZL7bAI_pqjH8esXESvgL-aZP/view?usp=sharing
+- Ссылка на дашборд: https://public.tableau.com/app/profile/aleksandryakubov/viz/_16801695178860/Dashboard
 
 ### Используемые библиотеки
 *pandas*, *numpy*, *seaborn*, *matplotlib*, *scipy*, *plotly*, *math*, *datetime*
